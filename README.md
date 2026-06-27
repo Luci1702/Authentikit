@@ -105,4 +105,4 @@ Because Google Cloud API payloads (specifically inline Base64 video analysis) ha
 If you upload your own videos, please ensure they are short (under 10 seconds) and highly compressed.
 
 ---
-*Built with ❤️ by Ctrl+AI+Win for the Google AI Solution Challenge 2026.*
+*Built with ❤️ By Pravin and Team for the Google AI Solution Challenge 2026.*
