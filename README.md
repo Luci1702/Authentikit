@@ -1,5 +1,7 @@
 # AuthentiKit - Google AI Solution Challenge 2026
 
+🌐 **Live Demo:** [https://authentikit-48299.web.app](https://authentikit-48299.web.app)
+
 ![AuthentiKit Banner](https://via.placeholder.com/1200x300/0f172a/3b82f6?text=AuthentiKit+-+AI+Sports+Video+Verification)
 
 ## 1. Problem Statement (Given by Google)
@@ -62,8 +64,8 @@ We aggressively leveraged Google Cloud and AI tools to build a highly scalable p
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/CtrlAIWin/SolutionChallenge2026.git
-cd SolutionChallenge2026
+git clone https://github.com/Luci1702/Authentikit.git
+cd Authentikit
 ```
 
 **2. Setup Backend**
